@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 //Add this to git
-//test or this 1 test 2
+//another comment
 
 package main
 
